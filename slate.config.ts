@@ -6,7 +6,7 @@ import { defineConfig } from './src/helpers/config-helper';
 export default defineConfig({
   lang: 'en-US',
   site: 'https://maz4.github.io',
-  avatar: '/avatar.png',
+  avatar: '/maz4-logo.png',
   title: 'maz4 Blog',
   description: 'Thoughts, stories, experiments.',
   lastModified: true,
