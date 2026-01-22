@@ -21,7 +21,7 @@ export default defineConfig({
       ariaLabel: 'maz4 github account',
     },
     {
-      icon: 'link',
+      icon: 'in',
       link: 'https://www.linkedin.com/in/marcin-zasadzki-804b0184',
       ariaLabel: 'maz4 linkedin profile',
     },
